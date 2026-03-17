@@ -21,7 +21,6 @@
     {"title":"Luxury watches gaining popularity among millennials"},
     {"title":"Fitness and wellness trends to follow this year"}
   ],
-
   "hacks":[
     "Use lemon + baking soda for stains",
     "Microwave garlic for 10 seconds before cooking",
@@ -44,7 +43,6 @@
     "Freeze leftover coffee for iced coffee cubes",
     "Wrap wet tissue in a cup to keep drinks cold outdoors"
   ],
-
   "fashion":[
     "Earth-tone jacket today",
     "Brown shoes match navy suits",
@@ -66,7 +64,7 @@
     "Layer t-shirts under open shirts",
     "Leather wristbands for casual style",
     "Classic trench coat in rainy season"
-  ]
+  ],
+  "gold":"₹71,450 / 10g",
+  "silver":"₹82,900 / kg"
 }
-"gold": "₹71,450 / 10g",
-"silver": "₹82,900 / kg"
