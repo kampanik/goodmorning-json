@@ -1,0 +1,9 @@
+{
+  "articles": [
+    {"title": "India markets rise today"},
+    {"title": "Tech startups receive funding"},
+    {"title": "AI tools expanding rapidly"}
+  ],
+  "hacks": ["Use lemon + baking soda for stains", "Microwave garlic for 10 seconds before cooking"],
+  "fashion": ["Earth-tone jacket today", "Brown shoes match well"]
+}
