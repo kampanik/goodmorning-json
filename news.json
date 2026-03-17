@@ -1,10 +1,48 @@
 {
+  "articles":[
+    {"title":"India markets rise today"},
+    {"title":"Tech startups receive funding"},
+    {"title":"AI tools expanding rapidly"},
+    {"title":"Electric vehicles gaining momentum globally"},
+    {"title":"Global oil prices fluctuate amid supply concerns"},
+    {"title":"New AI chips announced for 2026"},
+    {"title":"Gold prices hit 7-year high"},
+    {"title":"Silver demand surges in industrial sectors"},
+    {"title":"New sustainable fashion trends in 2026"},
+    {"title":"Top travel hacks for summer holidays"},
+    {"title":"AI startups revolutionizing healthcare"},
+    {"title":"India’s smartphone market grows 15%"},
+    {"title":"Gen Z influencers shaping lifestyle trends"},
+    {"title":"Top 10 Indian street food destinations"},
+    {"title":"Electric scooter sales boom in urban India"},
+    {"title":"Blockchain startups disrupting finance"},
+    {"title":"New smart home gadgets trending globally"},
+    {"title":"Climate change updates: Extreme weather in Asia"},
+    {"title":"Luxury watches gaining popularity among millennials"},
+    {"title":"Fitness and wellness trends to follow this year"}
+  ],
+
   "hacks":[
     "Use lemon + baking soda for stains",
     "Microwave garlic for 10 seconds before cooking",
     "Freeze herbs in olive oil cubes",
     "Put a wooden spoon over boiling water to stop overflow",
-    "Use vinegar to remove odors from clothes"
+    "Use vinegar to remove odors from clothes",
+    "Roll clothes to save luggage space",
+    "Use phone flashlight to find lost keys",
+    "Quick ice cube coffee hack",
+    "Use binder clips to organize cables",
+    "DIY natural air freshener with citrus peels",
+    "Use a damp sponge to clean keyboard keys",
+    "Microwave sponge for 30 seconds to sanitize",
+    "Keep a small notebook for shopping hacks",
+    "Use a hanger to hold recipes while cooking",
+    "Repurpose old jars for spice storage",
+    "Use toothpaste to clean silver jewelry quickly",
+    "Fold t-shirts vertically to save drawer space",
+    "Use rubber bands to secure lidless containers",
+    "Freeze leftover coffee for iced coffee cubes",
+    "Wrap wet tissue in a cup to keep drinks cold outdoors"
   ],
 
   "fashion":[
@@ -12,15 +50,21 @@
     "Brown shoes match navy suits",
     "White sneakers work with most casual outfits",
     "Navy blazer works with jeans or chinos",
-    "Layer lightweight jackets during cooler evenings"
-  ],
-
-  "articles":[
-    {"title":"India markets rise today"},
-    {"title":"Tech startups receive funding"},
-    {"title":"AI tools expanding rapidly"},
-    {"title":"Electric vehicles gaining momentum globally"},
-    {"title":"Global oil prices fluctuate amid supply concerns"},
-    {"title":"New AI chips announced for 2026"}
+    "Layer lightweight jackets during cooler evenings",
+    "Use patterned socks for subtle style",
+    "Add a pocket square to your blazer",
+    "Choose neutral belts for most outfits",
+    "Match watch strap with shoes",
+    "Denim jacket over hoodie is trendy",
+    "Oversized sunglasses remain a must-have",
+    "Mix textures like leather and cotton",
+    "Bold tie colors for formal occasions",
+    "Use a hat to elevate a casual look",
+    "Neutral tones for summer outfits",
+    "Chunky sneakers for street style",
+    "Minimalist backpack complements urban wear",
+    "Layer t-shirts under open shirts",
+    "Leather wristbands for casual style",
+    "Classic trench coat in rainy season"
   ]
 }
