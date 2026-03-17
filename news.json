@@ -1,9 +1,26 @@
 {
-  "articles": [
-    {"title": "India markets rise today"},
-    {"title": "Tech startups receive funding"},
-    {"title": "AI tools expanding rapidly"}
+  "hacks":[
+    "Use lemon + baking soda for stains",
+    "Microwave garlic for 10 seconds before cooking",
+    "Freeze herbs in olive oil cubes",
+    "Put a wooden spoon over boiling water to stop overflow",
+    "Use vinegar to remove odors from clothes"
   ],
-  "hacks": ["Use lemon + baking soda for stains", "Microwave garlic for 10 seconds before cooking"],
-  "fashion": ["Earth-tone jacket today", "Brown shoes match well"]
+
+  "fashion":[
+    "Earth-tone jacket today",
+    "Brown shoes match navy suits",
+    "White sneakers work with most casual outfits",
+    "Navy blazer works with jeans or chinos",
+    "Layer lightweight jackets during cooler evenings"
+  ],
+
+  "articles":[
+    {"title":"India markets rise today"},
+    {"title":"Tech startups receive funding"},
+    {"title":"AI tools expanding rapidly"},
+    {"title":"Electric vehicles gaining momentum globally"},
+    {"title":"Global oil prices fluctuate amid supply concerns"},
+    {"title":"New AI chips announced for 2026"}
+  ]
 }
